@@ -1,1 +1,1 @@
-https://a.macoyserv.online/public/webhookapp
+https://a.macoyserv.online/public/api/webhookapp
