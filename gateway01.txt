@@ -1,1 +1,1 @@
-https://a.macoyserv.online/public/api/webhookapp
+https://macoyserv.online/files/GcashJSON/GCashJson/apiendpoint.php
